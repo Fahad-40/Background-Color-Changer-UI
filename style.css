@@ -7,7 +7,7 @@ body {
     margin: 0;
     font-family: "Poppins", Arial, sans-serif;
     background: #f7efe8;
-    transition: background 0.6s ease;  /* smooth background change */
+    transition: background 0.6s ease;  
 }
 
 /* Title Styling */
