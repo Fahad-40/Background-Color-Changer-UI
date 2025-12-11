@@ -4,7 +4,7 @@ function bgChange(colorIndex) {
         "#BDE0FE", 
         "#A3D5D3", 
         "#FFC8DD", 
-        "#5DD39E"  // ocean teal
+        "#5DD39E"  
     ];
 
     document.body.style.background = colorArray[colorIndex];
