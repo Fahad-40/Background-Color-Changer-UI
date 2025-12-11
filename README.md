@@ -17,3 +17,11 @@ Designed with smooth animations, glass-card UI, and professional styling.
 - ✔ Great for learning DOM manipulation  
 
 ---
+
+## 🛠️ Technologies Used
+
+- **HTML**
+- **CSS (Animations + Glass Effect)**
+- **JavaScript (DOM Manipulation)**
+
+---
