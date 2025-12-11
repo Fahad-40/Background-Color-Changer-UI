@@ -1,6 +1,6 @@
 function bgChange(colorIndex) {
     const colorArray = [
-        "#CDB4DB", // soft lavender
+        "#CDB4DB", 
         "#BDE0FE", // mint sky
         "#A3D5D3", // pastel aqua
         "#FFC8DD", // peach mist
