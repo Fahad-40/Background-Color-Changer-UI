@@ -3,7 +3,7 @@ function bgChange(colorIndex) {
         "#CDB4DB", 
         "#BDE0FE", 
         "#A3D5D3", 
-        "#FFC8DD", // peach mist
+        "#FFC8DD", 
         "#5DD39E"  // ocean teal
     ];
 
